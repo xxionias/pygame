@@ -6,6 +6,9 @@ python3 app.py
 
 ### Initial State
 * The game starts with 4*4 grids with no Animal image showing
+<p align="center">
+  <img src="/images/initial.png">
+</p>
 ![](/images/initial.png)
 
 ### In Game
