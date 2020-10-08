@@ -1,8 +1,8 @@
 # Project Demonstration
 start the game by typing
-'''
+```
 python3 app.py
-'''
+```
 
 ### Initial State
 * The game starts with 4*4 grids with no Animal image showing
